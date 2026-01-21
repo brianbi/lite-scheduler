@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	scheduler "brianbi/lite_scheduler"
+	scheduler "github.com/brianbi/lite-scheduler"
 )
 
 func main() {
